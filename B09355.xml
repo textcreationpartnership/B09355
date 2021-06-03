@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lamentable new verses called, The rich heiresses downfal, or, Sir John Johnsons farewell; being a true relation how she was drawn in to do that wicked thing, and how her guardian had designed her for her own son, who now refuses her ; with what happened thereupon.  As likewise a short prayer for the unfortunate young lady.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09355</idno><idno type="EEBO-CITATION">64551350</idno>
+  <idno type="VID">184627</idno>
+  <idno type="EEBO-PROQUEST">2248530818</idno>
+  
+            <idno type="OCLC"> 64551350</idno>
+            <idno type="STC">Wing L273A</idno>
+            <idno type="STC">ESTC R219777</idno>
+            <idno type="OCLC">64551350</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184627)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2868:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lamentable new verses called, The rich heiresses downfal, or, Sir John Johnsons farewell; being a true relation how she was drawn in to do that wicked thing, and how her guardian had designed her for her own son, who now refuses her ; with what happened thereupon.  As likewise a short prayer for the unfortunate young lady.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Poet Ninny, and are to be sold the D---- I knows where,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:184627:1"/>
+            <head>Lamentable New Verses Called, <hi>The Rich Heiresses Downfal,</hi> Sir John Johnsons Farewel; Being a true Relation how She was drawn in to do that wicked thing, and how her <hi>Guardian</hi> had designed her for her own Son, who now refuses her; With what happened thereupon. As likewise a short Prayer for the unfortunate young Lady.</head>
+            <lg>
+               <l>ALl Christians that have Ears to Hear,</l>
+               <l>And Hearts inclin'd to Pitty;</l>
+               <l>Some of you all, bestow a Tear,</l>
+               <l>Upon my mournful Ditty.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Queen-Street</hi> did an Heiress live,</l>
+               <l>Whose downfal when I sing,</l>
+               <l>Twill make the very stones to grieve:</l>
+               <l>God prosper long our King.</l>
+            </lg>
+            <lg>
+               <l>For Her a <hi>Scotish</hi> Knight did die,</l>
+               <l>Was ever the like seen,</l>
+               <l>I shame to say, where, how, or why;</l>
+               <l>And so God Save the QUEEN.</l>
+            </lg>
+            <lg>
+               <l>To tell the truth she swore a Rape,</l>
+               <l>But God knows who was wrong'd,</l>
+               <l>For he that did it, did Escape,</l>
+               <l>and he did not, was Hang'd.</l>
+            </lg>
+            <lg>
+               <l>She Swore another thing besides,</l>
+               <l>Which was indeed a Vice,</l>
+               <l>That <hi>Cambel</hi> when she was his Bride,</l>
+               <l>Did trouble her but thrice.</l>
+            </lg>
+            <lg>
+               <l>The Fourth time he could do no good,</l>
+               <l>Tho' she was of't commanding,</l>
+               <l>And strove t'oblige him all she could,</l>
+               <l>He fell down Notwithstanding.</l>
+            </lg>
+            <lg>
+               <l>The Devil him sure an ill turn meant,</l>
+               <l>I pity his mishap,</l>
+               <l>For that which else, had been consent,</l>
+               <l>By her was made a Rape.</l>
+            </lg>
+            <lg>
+               <l>Twas this the Young Girls Choller mov'd;</l>
+               <l>for the next Morn she swore,</l>
+               <l>E're she'd be a wife but three times lov'd,</l>
+               <l>she'd rather be his whore.</l>
+            </lg>
+            <lg>
+               <l>Parents take warning by his fall,</l>
+               <l>When Maids are in their Teens,</l>
+               <l>To marry 'em strait, or they will all,</l>
+               <l>Know what the Business means.</l>
+            </lg>
+            <lg>
+               <l>For Girls like Nutts (excuse my Rhyme)</l>
+               <l>At bottom growing brown,</l>
+               <l>If you don't gather them betimes,</l>
+               <l>Will of themselves fall down.</l>
+            </lg>
+            <lg>
+               <l>But dont you Pity now her case,</l>
+               <l>Was forc'd to send for Surgeon,</l>
+               <l>To shew the man the very place,</l>
+               <l>Where once she was a Virgin.</l>
+            </lg>
+            <lg>
+               <l>For now what fool that is not mad,</l>
+               <l>Will marry this same Girle,</l>
+               <l>That might have been wife to a Lad,</l>
+               <l>Was Brother to an Earl.</l>
+            </lg>
+            <lg>
+               <l>The wretched Soul were better dead,</l>
+               <l>Now none with her will match,</l>
+               <l>Unless her Guardian would her Wed,</l>
+               <l>To Doctor <hi>O</hi>—, or <hi>Katch.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For tho' she meant her Eldest Son,</l>
+               <l>Shou'd Wed her for her means,</l>
+               <l>And pass't an Act to have it done,</l>
+               <l>Yet he forbids the Banes.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Col.</hi> has a Noble Soul,</l>
+               <l>That scornes a thought so poor,</l>
+               <l>As when he knows her Steed is stole,</l>
+               <l>To shut the Stable door.</l>
+            </lg>
+            <lg>
+               <l>Mother, quoth he, I understand,</l>
+               <l>The nature of these matters,</l>
+               <l>Who now will Angle in her Pond,</l>
+               <l>Must fish in troubled waters.</l>
+            </lg>
+            <lg>
+               <l>Have I in <hi>Ireland</hi> gotten Fame,</l>
+               <l>By following Honours trumpet,</l>
+               <l>And think you that I'll stain my name,</l>
+               <l>For any <hi>Scotchman's</hi> Strumpet.</l>
+            </lg>
+            <lg>
+               <l>No I'm a man of Warlike Scarlet,</l>
+               <l>And cannot be content</l>
+               <l>To marry one that is a Harlot,</l>
+               <l>By Act of Parliament.</l>
+            </lg>
+            <lg>
+               <l>Why then quo' she, Ah! Son I'm lost,</l>
+               <l>I fear you'l live to see't;</l>
+               <l>I shall be in a Blanket toss'd,</l>
+               <l>I'th' middle of <hi>Queen-Street.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Mob already dayly come,</l>
+               <l>And Thundring at my Door,</l>
+               <l>Much Lowder then the Noise of Drum,</l>
+               <l>They cry out, a Whore a Whore.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Johnson</hi> was to <hi>Tyburn</hi> Coach'd,</l>
+               <l>I would not then be heard on,</l>
+               <l>For fear I might ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> been debauch'd,</l>
+               <l>To a got the poor mans pardon.</l>
+            </lg>
+            <lg>
+               <l>But had I known that 'gainst my choise,</l>
+               <l>You would be thus Haranguing,</l>
+               <l>I would ha' took his Hundred pound,</l>
+               <l>And sav d the Knight from Hanging.</l>
+            </lg>
+            <lg>
+               <l>She still persisted, he deny'd,</l>
+               <l>She wept, and still he swore,</l>
+               <l>He scorned her Heiress for his bride,</l>
+               <l>The reasons you'd before.</l>
+            </lg>
+            <lg>
+               <l>Beside 'twas she who Hang'd the Knight,</l>
+               <l>Trapt by her impious snares,</l>
+               <l>But Heaven, I hope, will do her right,</l>
+               <l>According to my Prayers.</l>
+            </lg>
+            <lg>
+               <l>MAy she so Whore, that of her pelf,</l>
+               <l>By some damn'd Regues she's sham'd,</l>
+               <l>And then for grief go hang her self,</l>
+               <l>And so in fire be d—d,</l>
+            </lg>
+            <lg>
+               <l>Her carkass like to <hi>Jezabels,</hi>
+               </l>
+               <l>May Dogs i'th field devour,</l>
+               <l>One Hell's to little for her Ill's,</l>
+               <l>I need not say no more.</l>
+            </lg>
+            <lg>
+               <l>God bless K. <hi>William</hi> and Q. <hi>Mary,</hi>
+               </l>
+               <l>And Plenty, and Peace advance,</l>
+               <l>And Hang up those wish the contrary,</l>
+               <l>And then a Fig for <hi>France.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Poet Ninny,</hi> and are to be sold the D—l knows where.</p>
+            <pb facs="tcp:184627:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
